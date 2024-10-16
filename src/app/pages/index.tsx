@@ -1,5 +1,5 @@
 import React from 'react';
-import Titulo from '../components/Titulo';
+import Titulo from '../components/Title';
 
 const Home: React.FC = () => {
   return (
